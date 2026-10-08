@@ -1,28 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="288" viewBox="0 0 840 288" role="img" aria-labelledby="title">
-  <title id="title">Neel Patel — Security Engineer. Application, mobile and cloud security, reverse engineering.</title>
-  <style>
-    text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 16px; }
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="290" viewBox="0 0 840 290" role="img" aria-label="neel@github: whoami — Neel Patel, Security Engineer. Application, mobile and cloud security, reverse engineering. 40+ security assessments; 9/9 NSA Codebreaker challenges.">
+  <style>text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
     .line { opacity: 0; animation: show 0.01s linear forwards; }
-    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .cursor, .dot { animation: blink 1.1s steps(1) infinite; }
     @keyframes show { to { opacity: 1; } }
     @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) {
-      .line { opacity: 1; animation: none; }
-      .cursor { animation: none; }
-    }
-  </style>
-  <rect x="0.5" y="0.5" width="839" height="287" rx="12" fill="#070b08" stroke="#1f4d1f"/>
-  <path d="M0.5 44 V12.5 a12 12 0 0 1 12 -12 H827.5 a12 12 0 0 1 12 12 V44 Z" fill="#0b120d"/>
-  <line x1="0.5" y1="44" x2="839.5" y2="44" stroke="#1f4d1f"/>
-  <circle cx="24" cy="22" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="22" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="22" r="6" fill="#28c840"/>
-  <text x="420" y="27" text-anchor="middle" font-size="13" fill="#4c8557">neel@github: ~</text>
-  <text class="line" xml:space="preserve" style="animation-delay:0.35s" x="32" y="78"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github</tspan><tspan fill="#4c8557">:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">whoami</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:0.80s" x="32" y="106"><tspan fill="#eafff1" font-weight="700" font-size="20">Neel Patel — Security Engineer</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:1.25s" x="32" y="134"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github</tspan><tspan fill="#4c8557">:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">cat focus.txt</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:1.70s" x="32" y="162"><tspan fill="#9cc7a6">application · mobile · cloud security · reverse engineering</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:2.15s" x="32" y="190"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github</tspan><tspan fill="#4c8557">:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">ls ~/research</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:2.60s" x="32" y="218"><tspan fill="#9cc7a6">flutter-reverse-engineering/   binary-analysis/   nsa-codebreaker/</tspan></text>
-  <text class="line" xml:space="preserve" style="animation-delay:3.05s" x="32" y="246"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github</tspan><tspan fill="#4c8557">:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan class="cursor" fill="#39ff7a">█</tspan></text>
+    @media (prefers-reduced-motion: reduce) { .line { opacity: 1; animation: none; } .cursor, .dot { animation: none; } }</style>
+  <rect x="0.5" y="0.5" width="839" height="289" rx="10" fill="#050805" stroke="#1f4d1f"/>
+  <path d="M0.5 40 V10.5 a10 10 0 0 1 10 -10 H829.5 a10 10 0 0 1 10 10 V40 Z" fill="#070b07"/>
+  <line x1="0.5" y1="40" x2="839.5" y2="40" stroke="#143614"/>
+  <circle cx="22" cy="20" r="5.5" fill="#ff5f57"/><circle cx="40" cy="20" r="5.5" fill="#febc2e"/><circle cx="58" cy="20" r="5.5" fill="#28c840"/>
+  <text x="80" y="25" font-size="13" fill="#4c8557"><tspan fill="#39ff7a" font-weight="700">neel</tspan>@portfolio: <tspan fill="#eafff1">~/dev</tspan></text>
+  <text x="820" y="25" font-size="13" text-anchor="end" fill="#ffd24a"><tspan class="dot">●</tspan> available for work</text>
+  <text class="line" xml:space="preserve" style="animation-delay:0.3s" x="32" y="80" font-size="16"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">whoami</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:0.7s" x="32" y="110" font-size="16"><tspan fill="#eafff1" font-weight="700" font-size="22">NEEL PATEL</tspan><tspan fill="#4c8557" font-size="22"> — </tspan><tspan fill="#39ff7a" font-size="18">Security Engineer</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:1.1s" x="32" y="140" font-size="16"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">cat focus.txt</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:1.5s" x="32" y="170" font-size="16"><tspan fill="#8fb89a">application · mobile · cloud security · reverse engineering</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:1.9s" x="32" y="200" font-size="16"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan fill="#eafff1">cat stats.txt</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:2.3s" x="32" y="230" font-size="16"><tspan fill="#ffd24a" font-weight="700">40+</tspan><tspan fill="#8fb89a"> security assessments    </tspan><tspan fill="#ffd24a" font-weight="700">9/9</tspan><tspan fill="#8fb89a"> NSA Codebreaker challenges</tspan></text>
+  <text class="line" xml:space="preserve" style="animation-delay:2.7s" x="32" y="260" font-size="16"><tspan fill="#39ff7a" font-weight="700">neel</tspan><tspan fill="#4c8557">@github:</tspan><tspan fill="#5cf6ff">~</tspan><tspan fill="#4c8557"> $ </tspan><tspan class="cursor" fill="#39ff7a">█</tspan></text>
 </svg>
