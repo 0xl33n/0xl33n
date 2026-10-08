@@ -6,12 +6,12 @@ I break applications, APIs, mobile binaries, cloud infrastructure and network bo
 
 ### `$ cat featured.md`
 
-**[Practical Guide to Reverse Engineering Flutter Applications →](https://0xl33n.github.io/writeups/flutter-reverse-engineering/)**
+**[Practical Guide to Reverse Engineering Flutter Applications →](https://0xl33n.github.io/writeups/flutter-reverse-engineering/)**<br>
 Recovering function names with reFlutter, restoring references to Dart objects from a heap dump, and fixing the Dart VM stack so Ghidra can decompile Flutter apps on iOS and Android.
 
 ### `$ cat ~/experience.log`
 
-- **Security Engineer** @ Bureau Veritas Cybersecurity (formerly Security Innovation) · Aug 2023 – Jan 2026
+- **Security Engineer** @ Bureau Veritas Cybersecurity (formerly Security Innovation) · Aug 2023 – Jan 2026<br>
   Security assessments of web, cloud and mobile services, threat model reviews, manual code review, and custom Burp and Scapy tooling.
 - **M.S. Computer Science** @ The University of Texas at Dallas · 2021 – 2023
 
