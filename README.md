@@ -1,4 +1,4 @@
-<img alt="neel@github: whoami — Neel Patel, Security Engineer. Application, mobile and cloud security, reverse engineering. 40+ security assessments; 9/9 NSA Codebreaker challenges." src="./header.svg" width="100%">
+<img alt="neel@github: whoami — Neel Patel, Security Engineer. Application, mobile and cloud security, reverse engineering. 40+ security assessments; 9/9 NSA Codebreaker challenges." src="./terminal-header.svg" width="100%">
 
 I break applications, APIs, mobile binaries, cloud infrastructure and network boundaries, with **40+ security assessments** behind me. Research is the other half of what I do, and what I do best: figuring out systems I've never seen before, from mobile apps to custom binaries and protocols.
 
